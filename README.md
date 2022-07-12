@@ -5,10 +5,16 @@ Change Directory to the root folder you want to save the repo
 Cd git/<NAME>
 ```
 Root folder is git
-	• Using the repo URL clone the repo to your system
-		○ Git clone https://github.com/<URL>
-	• Now move to the directory
-		○ Cd <NAME>/
+#
+Using the repo URL clone the repo to your system
+```
+Git clone https://github.com/<URL>
+```
+#
+Now move to the directory
+```
+Cd <NAME>/
+```
 
 ## Creating Repo Locally
 	• Open File explorer and create the folder where the repo will be saved
