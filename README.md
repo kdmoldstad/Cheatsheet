@@ -1,10 +1,10 @@
 # Cheatsheet
 ## Cloning a Repo from GitHub
-	• Change Directory to the root folder you want to save the repo
-        ```
-		○ Cd git/<NAME>
-        ```
-			§ Root folder is git
+Change Directory to the root folder you want to save the repo
+```
+Cd git/<NAME>
+```
+Root folder is git
 	• Using the repo URL clone the repo to your system
 		○ Git clone https://github.com/<URL>
 	• Now move to the directory
